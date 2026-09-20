@@ -1,6 +1,6 @@
 # Egern AdBlock Rule (Merged)
 # Total Domains: 100732
-# Updated: 2026-09-19 22:13:17
+# Updated: 2026-09-20 22:15:37
 # Sources: Repcz, AdRules, Anti-AD
 
 payload:
@@ -84083,6 +84083,7 @@ payload:
 - telemetry.svc.transifex.net
 - telemetry.tableausoftware.com
 - telemetry.tradingview.com
+- telemetry.transcend.io
 - telemetry.urs.microsoft.com
 - telemetry.vtex.com
 - telemetry.webasto.com
@@ -88179,7 +88180,6 @@ payload:
 - transactionale.com
 - transactionproducer.com
 - transactionscookclotted.com
-- transcend.io
 - transcendcdn.eventbrite.com
 - transferfaciliate.com
 - transformationepisode.com
